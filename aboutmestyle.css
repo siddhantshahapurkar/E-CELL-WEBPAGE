@@ -1,0 +1,92 @@
+ul{
+    background-color: black;
+    height: 80px;
+    line-height: 80px;
+    padding:0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    float:left;
+    border-right:  1px solid rgb(119, 186, 223);
+}
+
+a{
+    display: block;
+    padding:0 38px;
+    font-size: 25px;
+    text-decoration: none;
+    color:rgb(140, 236, 236);
+}
+
+a:hover{
+    text-shadow: 1px 1px rgb(119, 173, 218);
+}
+
+body{
+    background-image: url("background.webp");
+    background-size: cover;
+}
+
+.h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 20;
+    font-size: 40px;
+    color: rgb(110, 187, 239) ;
+    padding: 10px 0 10px 0;
+}
+
+.h3{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-weight:lighter;
+     font-size: 30px;
+     color: rgb(135, 235, 155);
+     width: 1050px;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(234, 175, 175);
+    font-size: 20px;
+    width: 700px;
+}
+
+em{
+    color: rgb(251, 187, 98);
+}
+
+img{
+    float: right;
+    width: 250px;
+    padding-right: 80px;
+}
+
+.email:hover{
+    color: brown;
+}
+
+#guitar{
+    float: right;
+    padding-top: 60px;
+}
+
+.email{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 500px;
+    padding-top: 100px;
+}
+
+.text{
+    float:none;
+}
+
+.iith{
+      height: 80px;
+      width: 140px;
+      float: right;
+      padding-right: 450px;
+}
+
